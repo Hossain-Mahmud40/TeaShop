@@ -3,60 +3,53 @@
 <img width="1892" height="942" alt="Screenshot 2026-02-14 005813" src="https://github.com/user-attachments/assets/30b9d757-3327-45d4-b120-1621386d96cb" />
 
 
-📌 TeaShop – Landing Page Project
+# 🍵 TeaShop – Landing Page Project
 
-A responsive tea shop landing page built using HTML and CSS as part of my web development practice.
+A responsive tea shop landing page built using **HTML5** and **CSS3** as part of my web development practice.
 
-🛠 Tech Stack
+---
 
-HTML5
+## 🛠 Tech Stack
+- **HTML5**
+- **CSS3**
+- **Flexbox**
+- **Grid Layout**
 
-CSS3
+---
 
-Flexbox
+## ✨ Features
+- Clean modern UI design
+- Responsive layout
+- Structured sections
+- Proper spacing and alignment
+- Organized code structure
 
-Grid Layout
+---
 
-✨ Features
+## 🎯 What I Practiced
+- Layout structuring
+- CSS positioning
+- Responsive design techniques
+- Writing clean and readable code
 
-Clean modern UI design
+---
 
-Responsive layout
+## 🚀 Live Demo
+👉 [View Live Project](https://hossain-mahmud40.github.io/TeaShop)
 
-Structured sections (Hero, Products, Reviews, Footer)
+---
 
-Proper spacing and alignment
+## 📂 GitHub Repository
+👉 [View Repository](https://github.com/Hossain-Mahmud40/TeaShop)
 
-Organized code structure
+---
 
-🎯 What I Practiced
+## 📈 Future Improvements
+- Add JavaScript interactions
+- Improve animations
+- Enhance mobile responsiveness
 
-Layout structuring
+---
 
-CSS positioning
-
-Responsive design techniques
-
-Clean and readable code formatting
-
-🚀 Live Demo
-
-👉 https://hossain-mahmud40.github.io/TeaShop
-
-(Replace if needed)
-
-📂 GitHub Repository
-
-👉 https://github.com/Hossain-Mahmud40/TeaShop
-
-📈 Future Improvements
-
-Add JavaScript interactions
-
-Improve animations
-
-Enhance mobile responsiveness
-
-🙌 Feedback
-
-I’m continuously improving and open to suggestions!
+## 🙌 Feedback
+I am continuously improving and open to suggestions!
